@@ -1,4 +1,4 @@
-# 🎉 HTML & CSS Bootcamp for Kids
+# 🎉 HTML, CSS & JavaScript Bootcamp for Kids
 
 Welcome to the **EthioHope Kids Bootcamp**! This is a fun, beginner-friendly coding course where kids will learn how to build real websites using HTML and CSS — from scratch! 🚀
 
