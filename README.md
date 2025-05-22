@@ -80,7 +80,7 @@ Each week includes:
 
 ---
 
-### 🎨 Week 2 – [CSS Basics](./lessons/week-2-css-basics/index.md)
+### 🎨 Week 2 – [CSS Basics](./lessons/week-2-css/index.md)
 
 **📁 Folder:** `ethiohope-kids-projects/css-practice/`  
 **📄 File:** `style.css`
