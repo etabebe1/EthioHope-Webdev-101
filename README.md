@@ -69,31 +69,43 @@ Each week includes:
 
 ### 📖 Week 1 – HTML Basics
 
+**📁 Folder:** `ethiohope-kids-projects/my-first-html-page/`
+**📄 File:** `index.html`
+
 * What is HTML?
 * HTML Tags: `<html>`, `<head>`, `<body>`, `<h1>`–`<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<ol>`, `<li>`
 * Creating your first web page
 * Adding text, images, and links
-* Project: **Profile Page**
+* **Project:** Profile Page
 
 ### 🎨 Week 2 – CSS Basics
+
+**📁 Folder:** `ethiohope-kids-projects/css-practice/`
+**📄 File:** `style.css`
 
 * What is CSS?
 * Styling with color, size, and fonts
 * CSS syntax: selectors, properties, and values
 * Using classes and IDs
 * Adding internal and external styles
-* Project: **Colorful Info Card**
+* **Project:** Colorful Info Card
 
 ### 📐 Week 3 – Layout with Flexbox
+
+**📁 Folder:** `ethiohope-kids-projects/about-me-website/`
+**📄 Files:** `index.html`, `style.css`
 
 * What is layout?
 * CSS Box Model basics
 * Introduction to Flexbox
 * Aligning and positioning elements
 * Making responsive designs
-* Project: **Homepage Layout**
+* **Project:** Homepage Layout
 
 ### 🎓 Week 4 – Final Project
+
+**📁 Folder:** `ethiohope-kids-projects/final-project/`
+**📄 Files:** `index.html`, `style.css`
 
 * Planning your site
 * Combining HTML & CSS
