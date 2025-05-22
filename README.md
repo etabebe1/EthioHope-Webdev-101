@@ -67,51 +67,58 @@ Each week includes:
 * 🛠️ Practice mini-projects
 * 🎓 Final showcase project
 
-### 📖 Week 1 – HTML Basics
+### 📖 Week 1 – [HTML Basics](./lessons/week-1-html-basics/index.md)
 
-**📁 Folder:** `ethiohope-kids-projects/my-first-html-page/`
+**📁 Folder:** `ethiohope-kids-projects/my-first-html-page/`  
 **📄 File:** `index.html`
 
-* What is HTML?
-* HTML Tags: `<html>`, `<head>`, `<body>`, `<h1>`–`<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<ol>`, `<li>`
-* Creating your first web page
-* Adding text, images, and links
-* **Project:** Profile Page
+- What is HTML?
+- HTML Tags: `<html>`, `<head>`, `<body>`, `<h1>`–`<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<ol>`, `<li>`
+- Creating your first web page
+- Adding text, images, and links  
+- **Project:** Profile Page
 
-### 🎨 Week 2 – CSS Basics
+---
 
-**📁 Folder:** `ethiohope-kids-projects/css-practice/`
+### 🎨 Week 2 – [CSS Basics](./lessons/week-2-css-basics/index.md)
+
+**📁 Folder:** `ethiohope-kids-projects/css-practice/`  
 **📄 File:** `style.css`
 
-* What is CSS?
-* Styling with color, size, and fonts
-* CSS syntax: selectors, properties, and values
-* Using classes and IDs
-* Adding internal and external styles
-* **Project:** Colorful Info Card
+- What is CSS?
+- Styling with color, size, and fonts
+- CSS syntax: selectors, properties, and values
+- Using classes and IDs
+- Adding internal and external styles  
+- **Project:** Colorful Info Card
 
-### 📐 Week 3 – Layout with Flexbox
+---
 
-**📁 Folder:** `ethiohope-kids-projects/about-me-website/`
+### 📐 Week 3 – [Layout with Flexbox](./lessons/week-3-flexbox-layout/index.md)
+
+**📁 Folder:** `ethiohope-kids-projects/about-me-website/`  
 **📄 Files:** `index.html`, `style.css`
 
-* What is layout?
-* CSS Box Model basics
-* Introduction to Flexbox
-* Aligning and positioning elements
-* Making responsive designs
-* **Project:** Homepage Layout
+- What is layout?
+- CSS Box Model basics
+- Introduction to Flexbox
+- Aligning and positioning elements
+- Making responsive designs  
+- **Project:** Homepage Layout
 
-### 🎓 Week 4 – Final Project
+---
 
-**📁 Folder:** `ethiohope-kids-projects/final-project/`
+### 🎓 Week 4 – [Final Project](./lessons/week-4-final-project/index.md)
+
+**📁 Folder:** `ethiohope-kids-projects/final-project/`  
 **📄 Files:** `index.html`, `style.css`
 
-* Planning your site
-* Combining HTML & CSS
-* Folder and file structure
-* Building your very own mini website!
-* Sharing your site with others
+- Planning your site
+- Combining HTML & CSS
+- Folder and file structure
+- Building your very own mini website!
+- Sharing your site with others
+
 
 ---
 
