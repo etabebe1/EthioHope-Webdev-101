@@ -1,0 +1,40 @@
+{
+  // Prettier: Set as default formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Prettier: Format on save
+  "editor.formatOnSave": true,
+
+  // Optional: Only format with Prettier if a config file is present
+  "prettier.requireConfig": false,
+
+  // Enable auto closing tags
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // Useful Prettier settings (optional)
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "prettier.trailingComma": "es5",
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+
+  // Files to format
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
