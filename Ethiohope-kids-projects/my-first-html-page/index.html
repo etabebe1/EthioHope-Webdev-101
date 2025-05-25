@@ -3,49 +3,126 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ermias' First Web Page</title>
+    <title>All About Me – HTML Project</title>
   </head>
   <body>
-    <h1>Hello, I'm Ermias and my friends call me Jeremiah!</h1>
+    <header>
+      <h1>Welcome to My Web Page</h1>
+      <p>Hi, I'm Ermias – but my friends call me Jeremiah!</p>
+      <hr />
+    </header>
 
-    <p>
-      Welcome to my first web page. I'm learning how to use
-      <strong>HTML</strong>!
-    </p>
+    <main>
+      <!-- ✅ BASIC HTML SECTION -->
+      <section>
+        <h2>✅ Basic HTML</h2>
 
-    <h2>🎯 My Hobbies</h2>
-    <ul>
-      <li>Drawing</li>
-      <li>Playing</li>
-      <li>Reading Comics</li>
-      <li>Swimming</li>
-      <li>Playing Soccer</li>
-      <li>Programming</li>
-    </ul>
+        <h3>My Favorite Hobbies</h3>
+        <ul>
+          <li>Drawing</li>
+          <li>Playing Soccer</li>
+          <li>Reading Comics</li>
+          <li>Swimming</li>
+        </ul>
 
-    <h2>📸 Pictures I Love</h2>
-    <img
-      src="./images/cute-kitten1.jpg"
-      alt="A cute kitten sitting on hand"
-      style="width: 45vw; height: auto"
-    />
-    <img
-      src="./images/cute-kitten2.jpg"
-      alt="Another cute kitten playing"
-      style="width: 45vw; height: auto"
-    />
+        <h3>Some of My Favorite Pictures</h3>
+        <img src="./images/cute-kitten1.jpg" alt="Cute kitten" width="300" />
+        <img
+          src="./images/cute-kitten2.jpg"
+          alt="Another cute kitten"
+          width="300"
+        />
 
-    <h2>🌐 My Favorite Website</h2>
-    <p>
-      Visit
-      <a
-        href="http://www.cyaxiom.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Cyaxiom
-      </a>
-      to learn more!
-    </p>
+        <h3>My Favorite Website</h3>
+        <p>
+          I love learning at
+          <a
+            href="https://www.cyaxiom.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Cyaxiom</a
+          >
+        </p>
+      </section>
+
+      <!-- 💡 ADVANCED HTML SECTION -->
+      <section>
+        <h2>💡 Advanced HTML</h2>
+
+        <h3>Send Me a Message</h3>
+        <form>
+          <label for="name">Your Name:</label><br />
+          <input type="text" id="name" name="name" /><br /><br />
+
+          <label for="message">Your Message:</label><br />
+          <textarea id="message" name="message" rows="4" cols="30"></textarea
+          ><br /><br />
+
+          <input type="submit" value="Send" />
+        </form>
+
+        <h3>Watch a Fun Video</h3>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/Sfzo4xm5eX8"
+          title="YouTube video player"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+
+        <h3>Fun Symbols & Entities</h3>
+        <p>I love programming &hearts; &copy; 2025 Ermias</p>
+
+        <h3>My Weekly Routine (Table)</h3>
+        <table border="1" cellpadding="10">
+          <thead>
+            <tr>
+              <th>Day</th>
+              <th>Activity</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Monday</td>
+              <td>Drawing</td>
+            </tr>
+            <tr>
+              <td>Tuesday</td>
+              <td>Soccer</td>
+            </tr>
+            <tr>
+              <td>Wednesday</td>
+              <td>Reading</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h3>Inline vs Block Elements</h3>
+        <p>
+          This is a <strong>block</strong> element (like this whole paragraph).
+        </p>
+        <p>
+          But <span style="color: blue">this span</span> is inline inside the
+          sentence.
+        </p>
+
+        <h3>HTML Comments</h3>
+        <!-- This is a comment. It won't show up on the page. -->
+
+        <h3>Semantic Tags</h3>
+        <article>
+          <h4>My First Blog Post</h4>
+          <p>
+            This is a short post using the &lt;article&gt; tag. It's more
+            meaningful!
+          </p>
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <p>Thanks for visiting my site!</p>
+    </footer>
   </body>
 </html>
