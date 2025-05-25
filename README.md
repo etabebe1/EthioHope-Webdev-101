@@ -6,15 +6,15 @@ Welcome to the **EthioHope Kids Bootcamp**! This is a fun, beginner-friendly cod
 
 ## 📚 Table of Contents
 
-* [🧠 What Will You Learn?](#-what-will-you-learn)
-* [📅 Weekly Breakdown](#-weekly-breakdown)
-* [🛠️ Setup Guide](#️-setup-guide)
-* [📚 Learning Materials](#-learning-materials)
+- [🧠 What Will You Learn?](#-what-will-you-learn)
+- [📅 Weekly Breakdown](#-weekly-breakdown)
+- [🛠️ Setup Guide](#️-setup-guide)
+- [📚 Learning Materials](#-learning-materials)
 
-  * [📖 Week 1 – HTML Basics](#-week-1--html-basics)
-  * [🎨 Week 2 – CSS Basics](#-week-2--css-basics)
-  * [📐 Week 3 – Layout with Flexbox](#-week-3--layout-with-flexbox)
-  * [🎓 Week 4 – Final Project](#-week-4--final-project)
+  - [📖 Week 1 – HTML Basics](#-week-1--html-basics)
+  - [🎨 Week 2 – CSS Basics](#-week-2--css-basics)
+  - [📐 Week 3 – Layout with Flexbox](#-week-3--layout-with-flexbox)
+  - [🎓 Week 4 – Final Project](#-week-4--final-project)
 
 ---
 
@@ -22,10 +22,10 @@ Welcome to the **EthioHope Kids Bootcamp**! This is a fun, beginner-friendly cod
 
 By the end of this bootcamp, you'll be able to:
 
-* ✅ Create your own web pages using HTML
-* 🎨 Style and decorate them with CSS
-* 📐 Organize content with real layouts (like YouTube, game sites, etc.)
-* 💻 Build a final project to show off your creativity!
+- ✅ Create your own web pages using HTML
+- 🎨 Style and decorate them with CSS
+- 📐 Organize content with real layouts (like YouTube, game sites, etc.)
+- 💻 Build a final project to show off your creativity!
 
 ---
 
@@ -44,16 +44,16 @@ By the end of this bootcamp, you'll be able to:
 
 Before we start coding, you need to:
 
-1. **Install VS Code** – the free code editor we'll be using
+1. **Install VS Code** – the free code editor we'll be using  
    👉 [Guide Here](./setup/install-vscode.md)
 
-2. **Add Extensions** – like Live Server and Prettier
+2. **Add Extensions** – like Live Server and Prettier  
    👉 [Extensions Guide](./setup/recommended-extensions.md)
 
-3. **Create Folders** – to store your projects
+3. **Create Folders** – to store your projects  
    👉 [How To Organize Projects](./setup/folder-structure.md)
 
-4. **Open Folder in VS Code** – so you can start editing your files
+4. **Open Folder in VS Code** – so you can start editing your files  
    👉 [Open Folder Guide](./setup/open-folder-vscode.md)
 
 ---
@@ -62,10 +62,10 @@ Before we start coding, you need to:
 
 Each week includes:
 
-* 📖 Easy-to-follow lessons
-* 🧩 Fun coding activities
-* 🛠️ Practice mini-projects
-* 🎓 Final showcase project
+- 📖 Easy-to-follow lessons
+- 🧩 Fun coding activities
+- 🛠️ Practice mini-projects
+- 🎓 Final showcase project
 
 ### 📖 Week 1 – [HTML Basics](./lessons/week-1-html-basics/index.md)
 
@@ -75,8 +75,9 @@ Each week includes:
 - What is HTML?
 - HTML Tags: `<html>`, `<head>`, `<body>`, `<h1>`–`<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<ol>`, `<li>`
 - Creating your first web page
-- Adding text, images, and links  
+- Adding text, images, and links
 - **Project:** Profile Page
+- 🧪 **[Exercise Instructions](./lessons/week-1-html-basics/exercise/my-bio-page.md)**
 
 ---
 
@@ -89,7 +90,7 @@ Each week includes:
 - Styling with color, size, and fonts
 - CSS syntax: selectors, properties, and values
 - Using classes and IDs
-- Adding internal and external styles  
+- Adding internal and external styles
 - **Project:** Colorful Info Card
 
 ---
@@ -103,7 +104,7 @@ Each week includes:
 - CSS Box Model basics
 - Introduction to Flexbox
 - Aligning and positioning elements
-- Making responsive designs  
+- Making responsive designs
 - **Project:** Homepage Layout
 
 ---
@@ -118,7 +119,6 @@ Each week includes:
 - Folder and file structure
 - Building your very own mini website!
 - Sharing your site with others
-
 
 ---
 
