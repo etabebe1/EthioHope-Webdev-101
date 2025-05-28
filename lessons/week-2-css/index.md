@@ -52,7 +52,7 @@ This is the best way for bigger projects!
 
 ---
 
-## 🏷️ CSS Syntax
+## 🏏 CSS Syntax
 
 ```css
 selector {
@@ -123,10 +123,41 @@ h1 {
 
 ---
 
-## 👩‍💻 Fun Fact!
+## 🐼 Project: My Favorite Animal
 
-You can even make animations and cool effects with CSS later on!
+Now that you know the basics of CSS, let's build a fun little project called **My Favorite Animal**.
+
+You will:
+
+- Use HTML to structure your content
+- Use CSS to style it beautifully
+- Add images, lists, and a clickable button
+
+📁 Your files:
+
+- `index.html` → contains the structure of the animal card
+- `style.css` → adds color, layout, fonts, and animations
+- `panda.jpeg` → the image you use (make sure it's in the same folder!)
+
+🎨 **Colors and Styles Used in CSS**:
+
+- Background color: `#000` (black)
+- Card background: `#ffffff` (white)
+- Border: `3px dashed #55efc4`
+- Font: `'Courier New', Courier, monospace`
+- Highlight color: `#55efc4`, `#4ebd92`, `#3a3dcf`
+- Hover color: `#4a4cd4`
+
+🔗 **Link in Button**:
+
+- URL: [https://kids.nationalgeographic.com/animals/mammals/facts/giant-panda](https://kids.nationalgeographic.com/animals/mammals/facts/giant-panda)
+
+🎉 Final Result:
+
+A bright and fun profile card that shows off your favorite animal — Panda! Kids will love it!
 
 ---
 
-Now that we know the basics, let’s go build our **Colorful Info Card**! 🎨
+Next up? In **Week 3**, we’ll begin working with positioning, layout, and real-world mini websites!
+
+Happy coding, young devs! 💻🌟
