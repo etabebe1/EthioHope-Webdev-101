@@ -1,82 +1,52 @@
-# ✅ Week 2 Practice Exercise: Style Your Own Fun Page!
-
-Welcome to your Week 2 CSS exercise! In this challenge, you’ll create a fun and colorful webpage using everything you’ve learned so far about HTML and CSS.
-
----
-
-## 🧑‍🎨 Goal
-
-Create your own colorful and fun webpage using **HTML** and **CSS**.
+✅ Week 2 Practice Exercise: My Favorite Hobby Card
+🧑‍🎨 Goal
+Create a fun and colorful info card about your favorite hobby — like painting, soccer, baking, reading, or anything else you love!
 
 You will:
 
-- Use headings, paragraphs, lists, and buttons
-- Style them using different colors, fonts, sizes, borders, and hover effects
-- Practice using class and ID selectors
-- Play with the **box model**
+Structure your card using HTML
 
----
+Style it with CSS using everything you’ve learned
 
-## 📁 Files to Create
+Practice working with the box model, fonts, colors, borders, and hover effects
 
-- `practice.html`
-- `practice.css`
+📁 Files to Create
+index.html
 
----
+style.css
 
-## 🧱 Your Page Must Include:
+One image file related to your hobby (e.g., book.jpg, ball.png, etc.)
 
-1. A big title using an `<h1>` tag
-2. A paragraph describing something you like
-3. A `<div>` with a `class` (like `info-box` or `fun-box`)
-4. Inside the `<div>`, add:
+🧱 Your Hobby Card Must Include
+Inside a <div class="hobby-card">, include:
 
-   - A small heading `<h2>`
-   - A list `<ul>` of at least 3 things you enjoy (food, games, hobbies, etc.)
+A heading (<h2>) — the name of your hobby
 
-5. A button that says **"Click Me!"**
+An image (<img src="..." alt="..." />)
 
----
+A short paragraph (<p>) — describe why you enjoy it
 
-## 🎨 Style It With CSS
+A button (<button>) — that says something like “See More” or “Try It!”
 
-- Set a fun **background color** for the body
-- Change the **text color** of headings and paragraphs
-- Style the list items with a different **font** and some **spacing**
-- Add a **border**, **padding**, and **margin** to the `<div>`
-- Style the button:
+🎨 Style It With CSS
+Give your card a background color and border
 
-  - Give it a **background color**
-  - Change its style when you **hover**
-  - Make the corners rounded!
+Add padding and rounded corners
 
----
+Center the content with text-align: center
 
-## ⭐ Challenge (Optional)
+Style the button and add a hover effect
 
-Add a custom **Google Font** to your page!
+Use a fun Google Font to make it look awesome
 
-Example:
+Give the image a nice size and border-radius
 
-```html
-<link
-  href="https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap"
-  rel="stylesheet"
-/>
-```
+⭐ Bonus Challenge
+Add a second card for another hobby
 
-Then in CSS:
+Make the layout look like a mini hobby gallery!
 
-```css
-body {
-  font-family: 'Comic Neue', cursive;
-}
-```
+🏁 When You’re Done
+Your page should show off something you really love in a creative, colorful way.
 
----
-
-## 🏁 When You’re Done
-
-Your page should look **fun, colorful, and full of personality!** It doesn't have to be perfect — just be creative and use what you've learned.
-
-Happy styling! 🎨✨
+Have fun with your design, and try using your own favorite colors, fonts, and ideas!
