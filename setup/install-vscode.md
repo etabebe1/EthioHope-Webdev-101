@@ -10,3 +10,4 @@
    - Auto Rename Tag
    - IntelliSense for CSS class names
    - CSS Peek
+   - ESLint

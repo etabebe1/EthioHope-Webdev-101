@@ -105,9 +105,90 @@ h1 {
 }
 ```
 
+- **Group Selectors:** Apply the same style to multiple elements
+
+```css
+h1,
+h2 {
+  color: green;
+}
+```
+
+- **Descendant Selectors:** Target elements inside another element
+
+```css
+.card p {
+  font-size: 16px;
+}
+```
+
 ---
 
-## 🎨 Common CSS Properties
+## ✍️ CSS Comments
+
+Use comments to explain your CSS code:
+
+```css
+/* This is a comment */
+p {
+  color: red;
+}
+```
+
+---
+
+## 🔠 Google Fonts
+
+Add unique fonts to your website:
+
+```html
+<link
+  href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap"
+  rel="stylesheet"
+/>
+```
+
+```css
+body {
+  font-family: 'Indie Flower', cursive;
+}
+```
+
+---
+
+## 🧰 The Box Model
+
+Everything in CSS is a box. Each box has:
+
+- `content`
+- `padding` (space inside)
+- `border`
+- `margin` (space outside)
+
+```css
+div {
+  padding: 10px;
+  border: 2px solid black;
+  margin: 20px;
+}
+```
+
+---
+
+## 🎭 Hover Effects
+
+Make things change when you hover over them:
+
+```css
+button:hover {
+  background-color: lightblue;
+  color: white;
+}
+```
+
+---
+
+## ✨ More Useful Properties
 
 | Property           | What It Does                 |
 | ------------------ | ---------------------------- |
@@ -116,6 +197,8 @@ h1 {
 | `font-size`        | Size of the text             |
 | `font-family`      | Style of the font            |
 | `text-align`       | Align text left/center/right |
+| `font-weight`      | Bold or normal text          |
+| `text-decoration`  | Underline, none, etc.        |
 | `padding`          | Space inside the box         |
 | `margin`           | Space outside the box        |
 | `border`           | Adds borders around elements |
