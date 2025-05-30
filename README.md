@@ -92,6 +92,7 @@ Each week includes:
 - Using classes and IDs
 - Adding internal and external styles
 - **Project:** Colorful Info Card
+  🧪 **[Exercise Instructions](./lessons/week-2-css/exercise/practice.md)**
 
 ---
 
