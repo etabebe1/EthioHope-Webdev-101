@@ -1,50 +1,42 @@
-# 📘 Week 3 – Advanced CSS & Layout with Flexbox
+# 📘 Week 3 – Advanced CSS & Layout
 
 Welcome to **Week 3** of the EthioHope Kids Bootcamp! 🎉
 
-This week is all about learning how to **build real layouts**, use **advanced CSS tricks**, and create web pages that look and feel amazing!
-
-We’ll explore advanced CSS features like **Flexbox**, **Grid**, **Animations**, **Responsive Design**, and more — then use them to build a beautiful homepage layout.
+This week, we’ll dive into **advanced CSS techniques** that will take your web design skills to the next level.
 
 ---
 
 ## 🗓️ Week Schedule
 
-- ✅ **Day 1:** Try out advanced CSS concepts one by one (in two parts)
-- ✅ **Day 2:** Combine them all into a real-world homepage project
+- ✅ **Day 1:** Layout, Box Model, Flexbox, Grid (Part 1)
+- ✅ **Day 2:** Animations, Transform, Responsive Design, Styling Tricks (Part 2)
 
 ---
 
-## 📘 Day 1 – Advanced CSS Concepts
+## 📘 Day 1 – Layout, Spacing, and Display (Part 1)
 
-Today, we’re going to explore **cool and powerful features in CSS** — one at a time. You’ll get to see how websites make things move, look good on phones, and organize their layouts better.
+Today, we’re focusing on **how to organize and structure** content on a web page using different layout and spacing techniques.
 
-We’ve organized today’s demos into **two main files** so you can see and practice multiple concepts in one place.
+### 🧱 What You’ll Learn
 
----
-
-### 🔹 Part 1: Layout, Spacing, and Display
-
-In this file, you’ll learn the foundations of layout systems and spacing. You’ll explore:
-
-1. 🧱 **Box Model**
+1. **Box Model**
 
    - `margin`, `border`, `padding`, `content`
-   - Visualizing spacing with background colors
+   - Visualizing element spacing
 
-2. 🖼️ **Display Types**
+2. **Display Types**
 
-   - `display: block`, `inline`, `inline-block`, `none`
+   - `block`, `inline`, `inline-block`, `none`
    - `visibility: hidden` vs `display: none`
 
-3. 📐 **Flexbox Basics**
+3. **Flexbox Basics**
 
-   - `display: flex`, `justify-content`, `align-items`
-   - `flex-direction`, `gap`, responsive use
+   - Horizontal layouts, spacing, and alignment
+   - `justify-content`, `align-items`, `flex-direction`, `gap`
 
-4. 🔳 **CSS Grid (Intro)**
-   - `display: grid`, `grid-template-columns`, `grid-gap`
-   - Simple 2-column layout
+4. **CSS Grid (Intro)**
+   - 2D layout with rows and columns
+   - `grid-template-columns`, `gap`, `place-items`
 
 📁 Files:
 
@@ -53,24 +45,27 @@ In this file, you’ll learn the foundations of layout systems and spacing. You�
 
 ---
 
-### 🔹 Part 2: Visual Effects and Responsive Design
+## 📘 Day 2 – Animations, Effects & Responsiveness (Part 2)
 
-This file introduces advanced styling and interactivity to your websites.
+Today is about adding **motion, responsiveness, and style polish** to your websites.
 
-5. 💃 **CSS Animations**
+### 💃 What You’ll Learn
 
-   - `@keyframes`, `animation-duration`, movement effects
+5. **CSS Animations**
 
-6. 🔁 **Transform & Transition**
+   - `@keyframes`, `animation-name`, `animation-duration`
 
-   - `scale`, `rotate`, `translate`, hover effects
+6. **Transforms & Transitions**
 
-7. 📱 **Responsive Design**
+   - Smooth hover effects, spins, scaling, rotation
 
-   - `@media` queries for phones, tablets, desktops
+7. **Responsive Design**
 
-8. 🌈 **Styling Tricks**
-   - Box shadows, gradients, rounded corners, and hover effects
+   - `@media` queries to adjust for small screens
+   - Mobile-first thinking
+
+8. **Styling Tricks**
+   - Box shadows, gradients, rounded corners, hover effects
 
 📁 Files:
 
@@ -79,55 +74,12 @@ This file introduces advanced styling and interactivity to your websites.
 
 ---
 
-### ✅ Goal of Day 1
+## ✅ Goals of Week 3
 
-Today is all about **exploration and experimentation**!
-
-✔️ Try out each section  
-✔️ Play with the code  
-✔️ Ask questions and break things (safely!)
-
-Once you're confident, we’ll **combine these skills** into a real homepage layout on **Day 2**. 🚀
+- Understand advanced CSS techniques
+- Practice each one individually
+- Get ready for **Week 4**: Build your own **Portfolio Website**
 
 ---
 
-## 🧱 Day 2 – Project: Homepage Layout
-
-Now that you’ve learned some of the most powerful CSS tricks, let’s build something awesome!
-
----
-
-### 🏗️ What You'll Build
-
-You’ll build a **real homepage** that looks like a small website. It will include:
-
-- 🟦 A **Header** with logo and navigation links
-- 🟨 A **Main Section** with a 2-column layout (text + image)
-- 🟫 A **Footer** with contact info or social links
-
----
-
-### 💡 What You’ll Practice
-
-- Using **Flexbox** and **Grid** together for layout
-- Adding **Responsive Design** to adjust for mobile/tablet
-- Including **hover effects** and **animations**
-- Styling with gradients, shadows, and spacing
-- Structuring and organizing your code like a real developer
-
----
-
-📁 Folder: `ethiohope-kids-projects/homepage-layout/`  
-📄 Files: `index.html`, `style.css`
-
----
-
-### 🧪 Project Instructions
-
-👉 [See Full Project Instructions](./exercise/practice.md)
-
-Use what you've learned. Be creative. Make it your own!
-
----
-
-🚀 Let’s build something amazing!
+🚀 Let’s master advanced styling and make your websites shine!
